@@ -1,0 +1,356 @@
+body{
+    background-color: #c9c1c1;
+}
+
+.desk {
+    position: absolute;
+    width: 1300px;
+    height: 650px;
+    left: 91px;
+    top: 63px;
+
+    background: #F8F9FB;
+    border-radius: 20px;
+}
+
+
+/* -----left container----- */
+.sear {
+    margin-top: 3%;
+}
+
+.pro {
+    width: 57px;
+    height: 54px;
+    border-radius: 360%;
+    background-color: beige;
+}
+
+.im {
+    width: 20px;
+    height: 25px;
+    margin: 5px auto;
+    color:whitesmoke;
+    margin: 5% 9% 1% ;
+}
+
+
+
+
+/* ----- middle container------- */
+.middle{
+    position: absolute;
+    width:665px ;
+    left: 28.2% ;
+    height: 100%;
+    top: 0;
+    background-color: aliceblue;
+}
+.upper {
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    left: 0;
+    top: 0px;
+    border-radius: 3%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background: #F8F9FB;
+}
+.idname{
+    position: absolute;
+    left: 10%;
+    top: 23%;
+    font-size: 250%;
+}
+.greendot{
+    position: absolute;
+    height: 20%;
+    color: rgb(32, 214, 32);
+    top: 43%;
+    left: 5%;
+}
+.msyb{
+    position: absolute;
+    height: 25px;
+    top: 35%;
+    color: rgb(75, 75, 218);
+}
+.mphone{
+    right: 15%;  
+}
+.mvideo{
+    right: 7%;
+}
+.lower {
+    position: absolute;
+    width: 100%;
+    height: 8.5%;
+    left: 0.5%;
+    right: 1%;
+    bottom: 0%;
+    background-color: #EBEBEB;
+}
+
+.lowerp{
+    position: absolute;
+    top: 25%;
+    left: 4%;
+}
+
+.lsyb{
+    position: absolute;
+    height: 35%;
+    top: 30%;
+}
+.l1{
+    right: 15%;
+    opacity: 50%;
+}
+.l2{
+    right: 10%;
+    opacity: 50%;
+}
+.l3{
+    right: 5%;
+    color: rgb(75, 75, 218);
+}
+
+.msgp{
+    position: absolute;
+    height: 75%;
+    border:solid;
+    border-color: rgb(75, 75, 218);
+    border-radius: 100%;
+}
+.mmsg{
+    left: 1.5%;
+}
+.smsg{
+    right: 1.5%;
+}
+.m1{
+    bottom: 110%;
+}
+.m2{
+    bottom: 415%;
+}
+.m3{
+    bottom: 755%;
+}
+.s1{
+    bottom: 180%;
+}
+.s2{
+    bottom: 600%;
+}
+
+.msgbox{
+    position: absolute;
+    width: 50%;
+}
+.mbox{
+    left: 11%;
+    border-radius: 10px 10px 10px 0px;
+    background-color: #EAEAEA;
+}
+.sbox{
+    right: 11%;
+    background: rgb(75, 75, 218);
+    border-radius: 10px 10px 0px 10px;
+}
+.msg5{
+    width: 55px;
+    height: 21px;
+    bottom: 125%;
+    border-radius: 20px;
+}
+.msg4{
+    height: 150%;
+    bottom: 240%;
+}
+.msg3{
+    height: 100%;
+    bottom: 465%;
+}
+.msg2{
+    height: 100%;
+    bottom: 650%;
+}
+.msg1{
+    height: 110%;
+    bottom: 805%;
+}
+.msgpara{
+    position: absolute;
+    font-size: 100%;
+    left: 5%;
+    top: 5%;
+}
+.mgp2, .mgp4{
+    color: aliceblue;
+}
+.threedot{
+    position: absolute;
+    height: 1.563rem;
+    left: 25%;
+    top: -7%;
+}
+/* -------right container------- */
+.profile {
+    position: absolute;
+
+    width: 298px;
+    height: 650px;
+    right: -35px;
+    top: 0px;
+    border-radius: 0px 20px 20px 0px;
+    background: rgb(26, 25, 25);
+}
+.propic {
+    position: absolute;
+    width: 50%;
+    left: 25%;
+    top: 10%;
+    border-radius: 100%;
+    background-color: beige;
+}
+
+h3{
+    position: absolute;
+    color: white;
+    left: 34%;
+    top: 35%;
+}
+
+.ii{
+    position: absolute;
+    color: aliceblue;
+    left: 35%;
+    top: 42%;
+}
+
+.ij{
+    position: absolute;
+    color: aliceblue;
+    left: 32%;
+    top: 45%;
+}
+
+.syb {
+    position: absolute;
+    color: aliceblue;
+    height: 20px;
+    width: 12px;
+    left: 12%;
+}
+
+.address, .d1{
+    top : 55%;
+}
+
+.mobile, .d2{
+    top : 60%;
+}
+
+.mail, .d3{
+    top: 65%;
+}
+
+.details{
+    position: absolute;
+    color: aliceblue;
+    font-size: 15px;
+    left: 22%;
+}
+
+.media{
+    position: absolute;
+    color: aliceblue;
+    left: 12%;
+    top: 75%;
+    font-size: 20px;
+    font-weight: 550;
+}
+
+.mediapic{
+    position: absolute;
+    height: 50px;
+    border-radius: 100%;
+    top: 82%;
+    background-color: aliceblue;
+}
+
+.mp1{
+    left: 12%;
+}
+.mp2{
+    left: 32%;
+}
+.mp3{
+    left: 52%;
+}
+.mp4{
+    left: 72%;
+}
+
+.xmark{
+    position: absolute;
+    background-color: aliceblue;
+    border-radius: 100%;
+    height: 25px;
+    top: 1%;
+    right: 2%;
+}
+
+@media only screen and (max-width: 764px) {
+    /* For mobile phones: */
+    
+    main, .desk, .profile{
+        visibility: hidden;
+    }
+    body{
+        margin-right: 1rem;
+    }
+    .middle, .desk {
+        visibility: visible;
+        width: 100%;
+        left: 1%;
+        border-radius: 20px;
+      }
+      .desk{
+          position: fixed;
+          top: 0%;
+          left: 0%;
+          height: 100%;
+      }
+    .upper{
+        top: 0;
+        left: -0.5%;
+        border-radius: 20px 20px 5px 5px;
+    }
+    .lower{
+        bottom: 0%;
+        left: -0.5%;
+        border-radius: 5px 5px 20px 20px;
+    }
+    .mbox{
+        left: 13%;
+    }
+    .sbox{
+        right: 13%;
+    }
+    .msgpara{
+        font-size: 80%;
+    }
+    .l1{
+        right: 22%;
+        
+    }
+    .l2{
+        right: 14%;
+      
+    }
+    .mphone{
+        right: 20%;  
+    }
+  }
